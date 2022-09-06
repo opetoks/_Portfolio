@@ -15,6 +15,7 @@ const Hero = (props) => (
       <SectionText>
       I'm a Software | Cloud Engineer and the co-founder, Opykins Solutions. I write and deploy clean and 
       efficient code to automate processes. Full Stack Web Development is also my passion. 
+      
       </SectionText>
       <Button onClick={() => window.location = 'https://linkedin.com'}>View my Resume</Button>
     </LeftSection>
