@@ -12,7 +12,7 @@ const Hero = (props) => (
         Hello there! <br />
         Welcome to my Profile page 
       </SectionTitle>
-       
+         
       <SectionText>
       I'm a Software | Cloud Engineer and the co-founder, 
       <Link href="https://opykinsolutions.com.ng" target="_blank"> Opykins Solutions.</Link> I write and deploy clean and 
